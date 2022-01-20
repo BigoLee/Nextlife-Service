@@ -640,7 +640,7 @@ a.button-dot:hover:before {
 
 .text-slider-header-quotes {
     margin-bottom: 60px;
-    background-image: url(images/quotes_image.png);
+    background-image: url(imagens/quotes_image.png);
     background-repeat: no-repeat;
     width: 87px;
     height: 74px;
@@ -698,7 +698,7 @@ a.button-dot:hover:before {
 }
 
 .text-slider-wrapper .owl-theme .owl-prev {
-    background-image: url('images/nav_left.png') !important;
+    background-image: url('imagens/nav_left.png') !important;
     background-color: transparent !important;
     font-size: 0;
     width: 30px;
@@ -716,7 +716,7 @@ a.button-dot:hover:before {
 }
 
 .text-slider-wrapper .owl-theme .owl-next {
-    background-image: url('images/nav_right.png') !important;
+    background-image: url('imagens/nav_right.png') !important;
     background-color: transparent !important;
     font-size: 0;
     width: 30px;
@@ -814,7 +814,7 @@ h1.big-text {
 ====================================== */
 
 #services {
-    background-image: url(images/on_black_left.png);
+    background-image: url(imagens/on_black_left.png);
     background-color: #000000;
     background-position: left bottom;
     background-repeat: no-repeat;

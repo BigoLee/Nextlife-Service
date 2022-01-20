@@ -1,6 +1,9 @@
 <?php
 
+
 //SITE GLOBAL CONFIGURATION
-$email = "yourmail@here.com";   //<-- Your email
+$email = "nextlife.tv.2@gmail.com";   //<-- Your email
 
 ?>
+
+
